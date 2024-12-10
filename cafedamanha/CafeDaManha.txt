@@ -1,0 +1,17 @@
+programa
+{
+    funcao inicio()
+    {
+        escreva("Passo a passo para o café da manhã:\n\n")
+        
+        escreva("1. Despertar o alarme.\n")
+        escreva("2. Levantar da cama.\n")
+        escreva("3. Escovar os dentes.\n")
+        escreva("4. Preparar o café.\n")
+        escreva("5. Torrar o pão ou pegar os itens prontos.\n")
+        escreva("6. Colocar a mesa com pão, café, frutas e o que mais desejar.\n")
+        escreva("7. Sentar e desfrutar do café da manhã.\n")
+        escreva("8. Após terminar, lavar a louça e organizar a cozinha.\n")
+        escreva("\nBom apetite!\n")
+    }
+}
